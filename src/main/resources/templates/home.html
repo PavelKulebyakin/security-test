@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/home.css}" />
+</head>
+<body>
+<div>
+    <h1>Welcome home !</h1>
+</div>
+<form method="POST" th:action="@{/logout}" id="registerForm">
+    <div>
+        <p><input type="submit" value="Logout" class="btn btn-primary" /></p>
+    </div>
+</form>
+</body>
+</html>
