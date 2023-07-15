@@ -6,9 +6,11 @@
 
 ## Login page 
 
-![image](https://github.com/PavelKulebyakin/security-test/assets/101259638/64aa0e4d-c6ec-480a-bbaf-c4b511e8cdc2) <br /><br />
+![image](https://github.com/PavelKulebyakin/security-test/assets/101259638/936a91c3-364b-4f71-a2cf-49ecd21b1716)
+<br /><br />
 
 
 ## Registration page
+![image](https://github.com/PavelKulebyakin/security-test/assets/101259638/078a645f-e853-41f8-9970-699652fc382d)
 
-![image](https://github.com/PavelKulebyakin/security-test/assets/101259638/f0b954d9-c3e4-471d-87dc-bd303a31ba20)
+
